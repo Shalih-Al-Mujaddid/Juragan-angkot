@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to right, rgb(153, 211, 255), rgb(0, 238, 255));
+}
+
+.juragan {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#angkotContent {
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 10px;
+    min-height: 100px;
+    width: 50%;
+    background: #fff;
+    box-sizing: border-box;
+    margin-left: 25%;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+input {
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
